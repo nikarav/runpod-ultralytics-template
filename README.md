@@ -2,7 +2,7 @@
 
 [![Deploy on RunPod](https://img.shields.io/badge/Deploy-RunPod-blueviolet)](https://runpod.io/console/deploy?template=h6tbid6ucb)
 
-One-click GPU environment for training YOLO models. No setup needed.
+One-click GPU environment for training YOLO models. No setup needed. Use this [link](https://runpod.io/console/deploy?template=h6tbid6ucb) to deploy on runpod.
 
 ## What's inside
 
