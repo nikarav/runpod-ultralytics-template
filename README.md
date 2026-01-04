@@ -9,7 +9,6 @@ One-click GPU environment for training YOLO models. No setup needed. Use this [l
 - Ultralytics (configurable version)
 - JupyterLab (port 8888)
 - File Browser (port 8080) — drag & drop your files
-- uv for fast installs
 
 ## Usage
 
